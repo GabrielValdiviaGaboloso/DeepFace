@@ -1,0 +1,6 @@
+opencv-python>=4.7.0
+deepface>=0.0.86
+tk       # Nota: Tkinter viene con Python, no necesita pip
+numpy>=1.24.0
+pandas>=2.0.0
+tensorflow>=2.10.0  # si quieres usar GPU asegúrate de la versión compatible con tu CUDA
